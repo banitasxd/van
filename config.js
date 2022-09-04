@@ -13,16 +13,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285155058981']
-global.premium = ['6289501303263','6285725860917','62895342991259','6282327316783']
-global.packname = 'simplebot'
-global.author = 'dev'
-global.sessionName = 'Ahmad'
+global.owner = ['21230215371']
+global.premium = ['21230215371','21230215371','21230215371','21230215371']
+global.packname = 'xd bot'
+global.author = 'vanitas'
+global.sessionName = 'vanitas'
 global.prefa = ['!','.','/']
 global.sp = '.'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'الإشراف',
     botAdmin: 'Saya tidak bisa melakukan itu, karena aku bukan admin',
     owner: 'prefix > ini khusus owner bang',
     group: 'Fitur Digunakan Hanya Untuk Group!',
@@ -35,7 +35,7 @@ global.limitawal = {
     premium: "Infinity",
     free: "Infinity"
 }
-global.thumb = fs.readFileSync('./lib/thumb.png')
+global.thumb = fs.readFileSync('hisoka.jpg')
 global.visoka = { url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZT4NETLvQjO6SsjhZkPwPiLVGEFhaORgqA&usqp=CAU' }
 
 let file = require.resolve(__filename)
